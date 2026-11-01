@@ -1,0 +1,275 @@
+region,year,events,strong,max_mag,mean_depth_km,strong_share_pct
+Afghanistan,2024,179,5,6.4,153.6,2.79
+Afghanistan,2025,196,19,6.2,107.5,9.69
+Africa,2024,42,5,6.6,9.9,11.9
+Africa,2025,37,5,6.2,10.0,13.51
+Alaska,2024,12,0,4.1,11.4,0.0
+Alaska,2025,8,0,3.9,12.2,0.0
+Albania,2024,9,0,4.5,16.9,0.0
+Anguilla,2024,13,0,4.5,35.8,0.0
+Anguilla,2025,9,0,4.4,47.2,0.0
+Antigua and Barbuda,2024,8,1,5.0,31.6,12.5
+Argentina,2024,252,12,6.0,176.4,4.76
+Argentina,2025,348,32,6.4,119.5,9.2
+Ascension Island,2024,14,4,5.5,10.0,28.57
+Ascension Island,2025,25,2,5.2,10.0,8.0
+Ascension Island region,2024,7,0,4.9,10.5,0.0
+Ascension Island region,2025,6,1,5.0,10.0,16.67
+Australia,2024,25,1,5.1,10.2,4.0
+Australia,2025,22,1,5.1,9.9,4.55
+Azerbaijan,2024,7,0,4.9,30.3,0.0
+Azores Islands region,2025,6,0,4.8,10.0,0.0
+Balleny Islands region,2024,28,6,5.9,10.0,21.43
+Balleny Islands region,2025,24,13,5.6,10.0,54.17
+Banda Sea,2024,67,7,5.2,145.3,10.45
+Banda Sea,2025,60,3,6.4,154.3,5.0
+Bangladesh,2025,6,1,5.4,12.8,16.67
+Bolivia,2024,47,4,5.7,245.0,8.51
+Bolivia,2025,42,2,5.3,207.4,4.76
+Bosnia and Herzegovina,2024,6,1,5.4,11.1,16.67
+Bouvet Island region,2024,9,2,5.6,10.0,22.22
+Bouvet Island region,2025,5,1,5.0,10.0,20.0
+Brazil,2025,9,1,5.0,97.0,11.11
+Burma (Myanmar),2025,128,9,6.7,27.6,7.03
+Canada,2024,128,9,6.5,12.6,7.03
+Canada,2025,52,2,5.2,13.7,3.85
+Carlsberg Ridge,2024,37,4,5.6,10.0,10.81
+Carlsberg Ridge,2025,51,8,5.3,10.0,15.69
+Cayman Islands,2025,13,2,7.6,10.3,15.38
+Central America,2024,15,0,4.8,10.0,0.0
+Central America,2025,7,0,4.8,10.0,0.0
+Chagos Archipelago region,2024,8,1,5.0,10.0,12.5
+Chagos Archipelago region,2025,25,2,5.5,10.0,8.0
+Chile,2024,565,42,7.4,83.2,7.43
+Chile,2025,574,37,6.4,77.5,6.45
+China,2024,370,30,7.0,11.1,8.11
+China,2025,203,11,5.8,13.2,5.42
+Colombia,2024,106,5,5.6,92.6,4.72
+Colombia,2025,84,6,6.3,88.1,7.14
+Costa Rica,2024,34,3,6.2,24.9,8.82
+Costa Rica,2025,37,4,5.9,30.1,10.81
+Croatia,2024,6,0,4.4,10.5,0.0
+Cuba,2024,11,3,6.8,12.7,27.27
+Cyprus,2024,6,0,4.9,15.6,0.0
+Cyprus,2025,15,2,5.3,13.3,13.33
+Democratic Republic of the Congo,2024,6,0,4.6,10.0,0.0
+Djibouti,2024,6,1,5.4,10.0,16.67
+Dominican Republic,2024,225,0,4.8,66.7,0.0
+Dominican Republic,2025,325,3,5.85,62.6,0.92
+Drake Passage,2025,61,18,7.6,9.9,29.51
+Easter Island,2024,30,12,5.7,10.0,40.0
+Easter Island,2025,24,9,5.6,10.0,37.5
+Easter Island region,2024,17,2,5.4,10.0,11.76
+Easter Island region,2025,25,6,5.4,10.0,24.0
+Ecuador,2024,84,4,5.1,52.4,4.76
+Ecuador,2025,67,11,6.3,59.6,16.42
+El Salvador,2024,86,9,6.1,57.6,10.47
+El Salvador,2025,72,7,6.2,61.1,9.72
+Eritrea,2024,9,1,5.0,10.2,11.11
+Ethiopia,2024,100,2,5.2,9.9,2.0
+Ethiopia,2025,263,19,5.9,10.1,7.22
+Fiji,2024,260,10,5.9,518.7,3.85
+Fiji,2025,220,7,5.7,519.8,3.18
+Fiji Islands,2024,381,14,5.6,433.3,3.67
+Fiji Islands,2025,349,26,6.6,453.4,7.45
+Fiji region,2024,230,15,5.8,544.8,6.52
+Fiji region,2025,177,5,5.6,559.1,2.82
+Galapagos Islands,2025,12,2,5.3,10.0,16.67
+Galapagos Triple Junction region,2024,5,0,4.9,10.0,0.0
+Galapagos Triple Junction region,2025,5,0,4.8,10.0,0.0
+Greece,2024,163,7,5.8,29.7,4.29
+Greece,2025,531,18,6.2,17.1,3.39
+Greenland,2025,23,1,5.8,9.9,4.35
+Greenland Sea,2024,9,2,5.7,9.2,22.22
+Greenland Sea,2025,13,1,5.7,10.0,7.69
+Guadeloupe,2025,40,5,6.5,16.6,12.5
+Guam,2024,140,15,5.5,73.2,10.71
+Guam,2025,159,17,6.0,70.7,10.69
+Guatemala,2024,76,3,6.2,60.3,3.95
+Guatemala,2025,97,11,5.9,41.7,11.34
+Honduras,2024,11,0,4.9,41.7,0.0
+Honduras,2025,23,0,4.9,10.0,0.0
+Iceland,2024,12,4,5.3,10.3,33.33
+Iceland,2025,25,7,5.4,9.8,28.0
+Iceland region,2025,5,0,4.5,10.0,0.0
+India,2024,108,8,5.7,37.8,7.41
+India,2025,146,20,5.5,31.6,13.7
+India region,2024,11,2,5.6,17.1,18.18
+India region,2025,26,2,6.0,10.5,7.69
+Indian Ocean Triple Junction,2025,9,0,4.6,10.0,0.0
+Indonesia,2024,1391,133,6.4,77.7,9.56
+Indonesia,2025,1431,144,6.7,76.9,10.06
+Iran,2024,125,7,5.4,12.0,5.6
+Iran,2025,186,10,5.6,10.7,5.38
+Iraq,2024,9,0,4.3,10.5,0.0
+Italy,2024,29,1,5.1,89.5,3.45
+Italy,2025,28,2,5.2,53.2,7.14
+Japan,2024,862,68,6.3,57.4,7.89
+Japan,2025,1074,127,6.8,47.3,11.82
+Japan region,2024,337,31,6.5,85.8,9.2
+Japan region,2025,190,7,5.6,154.1,3.68
+Kazakhstan,2024,12,0,4.8,16.3,0.0
+Kazakhstan,2025,14,1,5.2,11.3,7.14
+Kermadec Islands,2024,141,17,5.9,38.7,12.06
+Kermadec Islands,2025,107,12,5.4,55.5,11.21
+Kermadec Islands region,2024,223,36,6.2,68.8,16.14
+Kermadec Islands region,2025,151,23,6.2,102.1,15.23
+Kuril Islands,2024,69,3,6.8,100.9,4.35
+Kuril Islands,2025,73,10,6.1,100.5,13.7
+Kyrgyzstan,2024,63,3,5.8,11.1,4.76
+Kyrgyzstan,2025,25,1,5.1,11.2,4.0
+Loyalty Islands,2024,82,11,5.7,26.5,13.41
+Loyalty Islands,2025,58,10,5.6,18.5,17.24
+MX,2024,130,0,4.86,11.2,0.0
+MX,2025,81,0,4.37,11.0,0.0
+Macquarie Island,2024,30,5,6.0,9.9,16.67
+Macquarie Island,2025,30,8,6.2,10.0,26.67
+Macquarie Island region,2024,24,7,6.8,11.0,29.17
+Macquarie Island region,2025,60,16,7.0,15.3,26.67
+Malta,2025,6,1,5.1,10.5,16.67
+Mariana Islands region,2024,57,2,5.1,169.5,3.51
+Mariana Islands region,2025,40,2,5.2,121.5,5.0
+Mauritius,2024,11,1,5.0,10.0,9.09
+Mauritius,2025,10,0,4.7,10.0,0.0
+Mauritius - Reunion region,2024,5,4,6.3,10.0,80.0
+Mauritius - Reunion region,2025,7,0,4.9,10.0,0.0
+Mexico,2024,338,25,6.4,27.3,7.4
+Mexico,2025,203,22,6.2,40.1,10.84
+Micronesia,2024,38,5,6.0,14.1,13.16
+Micronesia,2025,34,7,5.4,20.3,20.59
+Mid-Indian Ridge,2024,142,18,5.8,10.1,12.68
+Mid-Indian Ridge,2025,89,18,5.5,10.1,20.22
+Mongolia,2024,5,2,5.0,9.8,40.0
+Mongolia,2025,9,2,5.4,9.9,22.22
+Morocco,2024,6,0,4.5,9.5,0.0
+Myanmar,2024,48,2,5.4,53.5,4.17
+Nepal,2024,11,1,5.0,12.9,9.09
+Nepal,2025,68,6,5.4,12.1,8.82
+New Caledonia,2024,41,5,5.4,22.5,12.2
+New Caledonia,2025,24,2,5.1,12.1,8.33
+New Zealand,2024,218,21,6.1,64.0,9.63
+New Zealand,2025,196,23,6.7,65.4,11.73
+New Zealand region,2025,6,1,5.2,15.5,16.67
+Nicaragua,2024,68,7,5.6,61.7,10.29
+Nicaragua,2025,56,1,5.2,52.9,1.79
+North Atlantic Ocean,2025,6,0,4.9,10.0,0.0
+North Island of New Zealand,2024,17,2,5.1,11.6,11.76
+North Island of New Zealand,2025,7,0,4.8,10.0,0.0
+Northern Mariana Islands,2024,259,22,6.8,131.6,8.49
+Northern Mariana Islands,2025,198,8,5.6,162.8,4.04
+Norwegian Sea,2025,7,1,5.0,10.0,14.29
+Oman,2025,6,0,4.8,10.0,0.0
+Oregon,2024,18,0,4.3,10.3,0.0
+Oregon,2025,19,1,5.4,10.9,5.26
+Owen Fracture Zone region,2024,13,2,5.9,9.8,15.38
+Owen Fracture Zone region,2025,10,1,5.2,10.0,10.0
+Pacific-Antarctic Ridge,2024,52,19,6.2,10.0,36.54
+Pacific-Antarctic Ridge,2025,51,20,6.3,10.0,39.22
+Pakistan,2024,34,5,5.5,19.8,14.71
+Pakistan,2025,50,1,5.2,16.9,2.0
+Panama,2024,57,12,5.8,11.0,21.05
+Panama,2025,32,5,6.2,13.6,15.62
+Papua New Guinea,2024,609,85,6.9,78.4,13.96
+Papua New Guinea,2025,866,123,6.9,50.8,14.2
+Peru,2024,256,28,7.2,73.2,10.94
+Peru,2025,241,24,6.2,91.3,9.96
+Philippines,2024,772,76,7.1,68.3,9.84
+Philippines,2025,798,91,7.4,64.5,11.4
+Poland,2024,5,0,4.4,6.6,0.0
+Poland,2025,13,0,4.7,5.1,0.0
+Portugal,2024,20,2,5.2,10.2,10.0
+Portugal,2025,21,3,5.2,10.1,14.29
+Prince Edward Islands region,2024,13,2,6.2,10.0,15.38
+Puerto Rico,2024,1158,1,5.6,25.7,0.09
+Puerto Rico,2025,910,0,4.4,28.5,0.0
+Revilla Gigedo Islands region,2024,6,2,5.4,10.0,33.33
+Revilla Gigedo Islands region,2025,18,6,5.8,10.0,33.33
+Reykjanes Ridge,2024,39,6,5.6,10.0,15.38
+Reykjanes Ridge,2025,52,5,6.9,10.0,9.62
+Romania,2024,7,1,5.2,55.2,14.29
+Romania,2025,6,0,4.4,107.8,0.0
+Russia,2024,407,30,7.0,70.8,7.37
+Russia,2025,4094,508,7.8,32.4,12.41
+Russia region,2024,8,1,5.1,10.0,12.5
+Saint Helena,2025,6,2,5.1,10.0,33.33
+Samoa,2024,10,0,4.9,10.0,0.0
+Saudi Arabia,2024,11,0,4.9,10.0,0.0
+Saudi Arabia,2025,25,1,5.2,10.0,4.0
+Scotia Sea,2024,10,0,4.9,10.0,0.0
+Scotia Sea,2025,25,5,6.6,10.0,20.0
+Severnaya Zemlya,2024,10,1,5.2,10.4,10.0
+Severnaya Zemlya,2025,17,4,5.2,10.0,23.53
+Solomon Islands,2024,184,29,5.8,55.6,15.76
+Solomon Islands,2025,185,36,6.3,56.7,19.46
+Somalia,2024,8,1,5.2,10.0,12.5
+Somalia,2025,15,1,5.2,10.0,6.67
+South Africa,2024,9,1,5.2,6.0,11.11
+South Atlantic Ocean,2025,6,3,5.2,10.0,50.0
+South Georgia Island region,2024,6,1,5.2,11.2,16.67
+South Indian Ocean,2024,15,3,5.4,10.0,20.0
+South Indian Ocean,2025,20,2,5.7,10.0,10.0
+South Sandwich Islands,2025,14,6,5.6,10.0,42.86
+South Sandwich Islands region,2024,292,54,5.7,41.3,18.49
+South Sandwich Islands region,2025,291,67,6.1,43.3,23.02
+South Shetland Islands,2024,6,1,5.0,10.0,16.67
+Southern Tibetan Plateau,2025,50,7,5.2,10.0,14.0
+Southwest Indian Ridge,2024,29,6,6.2,10.0,20.69
+Southwest Indian Ridge,2025,29,3,5.0,10.0,10.34
+Sudan,2024,5,0,4.7,10.0,0.0
+Sudan,2025,6,0,4.5,10.0,0.0
+Svalbard,2024,14,1,5.5,10.0,7.14
+Svalbard,2025,10,0,4.6,10.0,0.0
+Svalbard and Jan Mayen,2024,26,3,5.2,9.9,11.54
+Svalbard and Jan Mayen,2025,26,2,6.5,10.0,7.69
+Taiwan,2024,446,67,7.4,23.7,15.02
+Taiwan,2025,127,19,6.6,22.9,14.96
+Tajikistan,2024,90,2,5.2,86.3,2.22
+Tajikistan,2025,73,1,5.8,76.7,1.37
+Tanzania,2024,15,1,5.0,9.8,6.67
+Tanzania,2025,19,2,5.0,10.0,10.53
+Timor Leste,2024,186,6,5.5,181.1,3.23
+Timor Leste,2025,212,11,6.2,196.6,5.19
+Tonga,2024,614,93,6.9,151.1,15.15
+Tonga,2025,491,73,7.0,155.4,14.87
+Tunisia,2025,6,1,5.1,10.0,16.67
+Turkey,2024,106,6,6.0,12.5,5.66
+Turkey,2025,138,12,6.2,16.1,8.7
+Turkmenistan,2024,5,0,4.7,18.2,0.0
+Turkmenistan,2025,5,1,5.1,26.6,20.0
+U.S. Virgin Islands,2024,267,0,4.9,37.8,0.0
+U.S. Virgin Islands,2025,252,1,5.63,37.9,0.4
+United States,2024,9138,59,6.3,29.6,0.65
+United States,2025,9405,66,6.2,29.4,0.7
+Uzbekistan,2025,8,0,4.6,12.7,0.0
+Vanuatu,2024,425,57,7.3,92.5,13.41
+Vanuatu,2025,337,52,5.9,97.5,15.43
+Vanuatu region,2024,21,5,6.4,274.6,23.81
+Vanuatu region,2025,11,1,6.4,436.4,9.09
+Venezuela,2024,27,1,6.0,48.6,3.7
+Venezuela,2025,40,5,6.3,46.9,12.5
+Vietnam,2024,14,1,5.1,9.9,7.14
+Vietnam,2025,8,0,4.7,10.0,0.0
+Wallis and Futuna,2024,40,2,5.5,272.4,5.0
+Wallis and Futuna,2025,48,6,6.6,303.0,12.5
+West Chile Rise,2024,35,12,5.5,10.0,34.29
+West Chile Rise,2025,34,7,5.7,10.0,20.59
+Yemen,2024,14,1,5.0,10.0,7.14
+Yemen,2025,17,1,5.3,10.0,5.88
+central East Pacific Rise,2024,62,15,5.8,10.0,24.19
+central East Pacific Rise,2025,21,6,5.7,10.0,28.57
+central Mid-Atlantic Ridge,2024,68,12,5.5,10.0,17.65
+central Mid-Atlantic Ridge,2025,126,20,6.6,10.0,15.87
+northern East Pacific Rise,2024,10,3,5.7,10.0,30.0
+northern East Pacific Rise,2025,12,5,5.6,10.0,41.67
+northern Mid-Atlantic Ridge,2024,89,17,6.2,10.1,19.1
+northern Mid-Atlantic Ridge,2025,58,7,5.6,10.0,12.07
+southeast Indian Ridge,2024,48,9,5.4,10.0,18.75
+southeast Indian Ridge,2025,38,8,6.6,9.9,21.05
+southern East Pacific Rise,2024,28,7,6.3,10.0,25.0
+southern East Pacific Rise,2025,40,10,6.0,10.0,25.0
+southern Mid-Atlantic Ridge,2024,64,29,5.9,10.0,45.31
+southern Mid-Atlantic Ridge,2025,83,24,6.2,10.0,28.92
+western Indian-Antarctic Ridge,2024,34,7,5.5,10.0,20.59
+western Indian-Antarctic Ridge,2025,85,8,6.2,10.0,9.41
+western Xizang,2024,37,3,5.9,10.8,8.11
+western Xizang,2025,22,4,5.1,10.0,18.18

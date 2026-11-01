@@ -1,0 +1,194 @@
+[
+  {
+    "file": "usgs_2024_01.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2024-01-01&endtime=2024-02-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 427855,
+    "sha256": "8f186a50da7075750b37c81d0dfa2c6dc34b1c8dc7063320fdfa90ff8adcb6ec",
+    "downloaded_at": "2026-11-01T08:02:49.511709+00:00",
+    "rows": 2249
+  },
+  {
+    "file": "usgs_2024_02.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2024-02-01&endtime=2024-03-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 417118,
+    "sha256": "f19826805f2f17f21269165e067199d0853f6eafbbc38cb55c7df00fe52cc8b5",
+    "downloaded_at": "2026-11-01T08:02:51.099182+00:00",
+    "rows": 2161
+  },
+  {
+    "file": "usgs_2024_03.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2024-03-01&endtime=2024-04-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 364945,
+    "sha256": "7697aa3cdc0f2dadedbe51a9f53c44a587c29a9f6a10ebda8df37afc99d69133",
+    "downloaded_at": "2026-11-01T08:02:52.716783+00:00",
+    "rows": 1918
+  },
+  {
+    "file": "usgs_2024_04.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2024-04-01&endtime=2024-05-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 433399,
+    "sha256": "f6277706989e49d5db31626703960832ba42aa5b1eeb99be1aed7f4752243c2c",
+    "downloaded_at": "2026-11-01T08:02:54.201610+00:00",
+    "rows": 2279
+  },
+  {
+    "file": "usgs_2024_05.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2024-05-01&endtime=2024-06-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 411470,
+    "sha256": "ec7c5aca02d0ca65d30f6c68b9a3f8a507f32d7f7633a23228775f2d0875e779",
+    "downloaded_at": "2026-11-01T08:02:55.773818+00:00",
+    "rows": 2159
+  },
+  {
+    "file": "usgs_2024_06.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2024-06-01&endtime=2024-07-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 382007,
+    "sha256": "2af5272b55672c604f7b7f15aca42f280bb650602fc9ad5542ac95961b73c201",
+    "downloaded_at": "2026-11-01T08:02:57.640675+00:00",
+    "rows": 1990
+  },
+  {
+    "file": "usgs_2024_07.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2024-07-01&endtime=2024-08-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 395209,
+    "sha256": "630353179d07e08630d89b8ecbdbada987a9e44be7d70383841a100e9cd41929",
+    "downloaded_at": "2026-11-01T08:02:59.127982+00:00",
+    "rows": 2061
+  },
+  {
+    "file": "usgs_2024_08.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2024-08-01&endtime=2024-09-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 385713,
+    "sha256": "d34432d9e11c89754787b3e8e5da0727559d2bf8adf224bf7c170cd170803625",
+    "downloaded_at": "2026-11-01T08:03:00.816914+00:00",
+    "rows": 2015
+  },
+  {
+    "file": "usgs_2024_09.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2024-09-01&endtime=2024-10-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 347823,
+    "sha256": "3fc049ad2e3e80ef88d6aa2441925f3921d3d7e9c5bd5393622ffa850f1916d7",
+    "downloaded_at": "2026-11-01T08:03:02.681034+00:00",
+    "rows": 1817
+  },
+  {
+    "file": "usgs_2024_10.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2024-10-01&endtime=2024-11-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 393141,
+    "sha256": "39a4c6e3823105510182267337f82a5fa6e09a527283306b4759ebeb198e7a9a",
+    "downloaded_at": "2026-11-01T08:03:04.180922+00:00",
+    "rows": 2073
+  },
+  {
+    "file": "usgs_2024_11.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2024-11-01&endtime=2024-12-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 352043,
+    "sha256": "50c7f6a375cb7d4f7b60b8aea441b0e9b22e82743254b66ca769e36f41820f4d",
+    "downloaded_at": "2026-11-01T08:03:05.875809+00:00",
+    "rows": 1838
+  },
+  {
+    "file": "usgs_2024_12.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2024-12-01&endtime=2025-01-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 497101,
+    "sha256": "d3f78db05ded0533a9b87ab93d192465bdb830a91a8d39f1a034917e549b11c5",
+    "downloaded_at": "2026-11-01T08:03:07.497467+00:00",
+    "rows": 2593
+  },
+  {
+    "file": "usgs_2025_01.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2025-01-01&endtime=2025-02-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 426750,
+    "sha256": "bf6f2faa0a9cff54ca2af6b8fcc93df54ee7debb97cb0863bb6bde5efe053626",
+    "downloaded_at": "2026-11-01T08:03:08.989461+00:00",
+    "rows": 2258
+  },
+  {
+    "file": "usgs_2025_02.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2025-02-01&endtime=2025-03-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 413182,
+    "sha256": "fd74374f30e8364470f25068a18201decda9242c7cb07d5d5699aef9d216fb99",
+    "downloaded_at": "2026-11-01T08:03:10.853547+00:00",
+    "rows": 2186
+  },
+  {
+    "file": "usgs_2025_03.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2025-03-01&endtime=2025-04-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 425198,
+    "sha256": "736e8151350b0116a92088019597e5cd20438e146fd1a9442d37fda07d1afb52",
+    "downloaded_at": "2026-11-01T08:03:12.431571+00:00",
+    "rows": 2238
+  },
+  {
+    "file": "usgs_2025_04.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2025-04-01&endtime=2025-05-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 408740,
+    "sha256": "067c574fae0ac27bfaa5dec63220c20b36973b3e58ff6e916754d1280d029f3a",
+    "downloaded_at": "2026-11-01T08:03:13.940087+00:00",
+    "rows": 2141
+  },
+  {
+    "file": "usgs_2025_05.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2025-05-01&endtime=2025-06-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 385448,
+    "sha256": "e4843fbbe42dc43f87ce462756aea83c8fc91016845c99c908f190a04a4c8ed3",
+    "downloaded_at": "2026-11-01T08:03:15.463086+00:00",
+    "rows": 2022
+  },
+  {
+    "file": "usgs_2025_06.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2025-06-01&endtime=2025-07-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 383786,
+    "sha256": "12faaee361137f1d9ccc24d61f27155446e9bfee6f12618c038e57a6f929d1b6",
+    "downloaded_at": "2026-11-01T08:03:17.247293+00:00",
+    "rows": 2010
+  },
+  {
+    "file": "usgs_2025_07.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2025-07-01&endtime=2025-08-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 806186,
+    "sha256": "835de5168d19d79c5d80f4b5c85f308fc8585881968843e39b66b9159b8453c1",
+    "downloaded_at": "2026-11-01T08:03:19.108231+00:00",
+    "rows": 4179
+  },
+  {
+    "file": "usgs_2025_08.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2025-08-01&endtime=2025-09-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 593520,
+    "sha256": "52358a10d1b798efe02b0a8a48ad3cfa4ee36bea7c5b879127766a5e56adaaea",
+    "downloaded_at": "2026-11-01T08:03:20.848137+00:00",
+    "rows": 3081
+  },
+  {
+    "file": "usgs_2025_09.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2025-09-01&endtime=2025-10-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 437416,
+    "sha256": "988fbdec7ec1446a4ab85cb4688030f59398ae5871419c5f797ae61cf36507a1",
+    "downloaded_at": "2026-11-01T08:03:22.426353+00:00",
+    "rows": 2272
+  },
+  {
+    "file": "usgs_2025_10.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2025-10-01&endtime=2025-11-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 386706,
+    "sha256": "3bc0e81de690a02a3a702c9807880563a84eca88dcc78e4999fe9e91055b3eaa",
+    "downloaded_at": "2026-11-01T08:03:24.175919+00:00",
+    "rows": 2016
+  },
+  {
+    "file": "usgs_2025_11.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2025-11-01&endtime=2025-12-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 378167,
+    "sha256": "bcc9350b3dbfbe2b70744eb4947a67aa3be8d3a9f5611105ee63cea8185b020e",
+    "downloaded_at": "2026-11-01T08:03:25.943843+00:00",
+    "rows": 1948
+  },
+  {
+    "file": "usgs_2025_12.csv",
+    "url": "https://earthquake.usgs.gov/fdsnws/event/1/query?format=csv&starttime=2025-12-01&endtime=2026-01-01&minmagnitude=2.5&orderby=time-asc",
+    "bytes": 546103,
+    "sha256": "3bca433661270cc93079dcd240d5370a5c90886deae6bd53a4d5dffa89060464",
+    "downloaded_at": "2026-11-01T08:03:27.606878+00:00",
+    "rows": 2890
+  }
+]

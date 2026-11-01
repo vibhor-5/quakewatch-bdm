@@ -1,0 +1,13 @@
+{
+  "raw_rows": 54394,
+  "duplicates_removed": 0,
+  "non_earthquake_excluded": 442,
+  "invalid_coordinates": 0,
+  "clean_rows": 53952,
+  "collections": {
+    "earthquakes": 53952,
+    "daily_summary": 731,
+    "region_summary": 469
+  },
+  "total_documents": 55152
+}

@@ -1,0 +1,155 @@
+{
+  "runs_per_path": 5,
+  "server_version": "8.0.34",
+  "docs_in_collection": 53952,
+  "results": [
+    {
+      "query": "2025 strong events",
+      "access_path": "index",
+      "median_ms": 0,
+      "all_ms": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "keys_examined": 2129,
+      "docs_examined": 2129,
+      "returned": 2129,
+      "stages": [
+        "FETCH",
+        "IXSCAN"
+      ]
+    },
+    {
+      "query": "2025 strong events",
+      "access_path": "collection scan",
+      "median_ms": 14,
+      "all_ms": [
+        14,
+        14,
+        14,
+        14,
+        14
+      ],
+      "keys_examined": 0,
+      "docs_examined": 53952,
+      "returned": 2129,
+      "stages": [
+        "COLLSCAN"
+      ]
+    },
+    {
+      "query": "event id lookup",
+      "access_path": "index",
+      "median_ms": 0,
+      "all_ms": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "keys_examined": 1,
+      "docs_examined": 1,
+      "returned": 1,
+      "stages": [
+        "FETCH",
+        "IXSCAN"
+      ]
+    },
+    {
+      "query": "event id lookup",
+      "access_path": "collection scan",
+      "median_ms": 12,
+      "all_ms": [
+        12,
+        14,
+        11,
+        12,
+        12
+      ],
+      "keys_examined": 0,
+      "docs_examined": 53952,
+      "returned": 1,
+      "stages": [
+        "COLLSCAN"
+      ]
+    },
+    {
+      "query": "within 300 km of Tokyo",
+      "access_path": "index",
+      "median_ms": 0,
+      "all_ms": [
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "keys_examined": 570,
+      "docs_examined": 552,
+      "returned": 427,
+      "stages": [
+        "FETCH",
+        "IXSCAN"
+      ]
+    },
+    {
+      "query": "within 300 km of Tokyo",
+      "access_path": "collection scan",
+      "median_ms": 41,
+      "all_ms": [
+        41,
+        41,
+        41,
+        41,
+        41
+      ],
+      "keys_examined": 0,
+      "docs_examined": 53952,
+      "returned": 427,
+      "stages": [
+        "COLLSCAN"
+      ]
+    },
+    {
+      "query": "magnitude >= 6",
+      "access_path": "index",
+      "median_ms": 0,
+      "all_ms": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "keys_examined": 244,
+      "docs_examined": 244,
+      "returned": 244,
+      "stages": [
+        "FETCH",
+        "IXSCAN"
+      ]
+    },
+    {
+      "query": "magnitude >= 6",
+      "access_path": "collection scan",
+      "median_ms": 13,
+      "all_ms": [
+        13,
+        13,
+        13,
+        13,
+        13
+      ],
+      "keys_examined": 0,
+      "docs_examined": 53952,
+      "returned": 244,
+      "stages": [
+        "COLLSCAN"
+      ]
+    }
+  ]
+}

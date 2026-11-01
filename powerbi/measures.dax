@@ -1,0 +1,30 @@
+-- QuakeWatch Power BI measures. Model: fact_earthquakes (one row per event) related to
+-- dim_calendar[date] (1:*) via fact_earthquakes[date]. Aggregate tables stay unrelated at their own grain.
+
+Total Events = COUNTROWS(fact_earthquakes)
+
+Strong Events =
+CALCULATE([Total Events], KEEPFILTERS(fact_earthquakes[is_strong] = 1))
+
+Strong Share = DIVIDE([Strong Events], [Total Events])
+
+Largest Magnitude = MAX(fact_earthquakes[mag])
+
+Mean Depth (km) = AVERAGE(fact_earthquakes[depth_km])
+
+Baseline Strong Share =
+CALCULATE([Strong Share], ALL(fact_earthquakes[depth_class], fact_earthquakes[mag_type],
+                              fact_earthquakes[network], fact_earthquakes[region]))
+
+Share Ratio = DIVIDE([Strong Share], [Baseline Strong Share])
+
+Odds Ratio =
+DIVIDE(DIVIDE([Strong Share], 1 - [Strong Share]),
+       DIVIDE([Baseline Strong Share], 1 - [Baseline Strong Share]))
+
+-- Energy: log10 E(J) = 1.5 M + 4.8, so E = 10^(1.5 M + 4.8). Summed in exajoules.
+Total Energy (EJ) = SUMX(fact_earthquakes, POWER(10, fact_earthquakes[log10_energy_j])) / 1E18
+
+-- Grid measures transfer the calendar year to the year-grain aggregate table.
+Grid Events =
+CALCULATE(SUM(agg_hotspots_grid[events]), TREATAS(VALUES(dim_calendar[year]), agg_hotspots_grid[year]))
